@@ -1,4 +1,4 @@
 # linkinator
-Just ignore this repo unless you know who you are.
+like a thing I made
 
 https://the-linkanator.dembarksflint.repl.co/
